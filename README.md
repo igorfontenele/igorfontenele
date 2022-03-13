@@ -5,7 +5,7 @@ Happy to see you here!
 This is my Language's Stats:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfontenele)](https://github.com/igorfontenele/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfontenele&layout=compact)](https://github.com/igorfontenele/github-readme-stats)
 
 <!--
 **igorfontenele/igorfontenele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
