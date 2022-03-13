@@ -2,7 +2,7 @@
 
 Happy to see you here!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfontenele&layout=compact&theme=gruvbox)](https://github.com/igorfontenele/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfontenele&layout=compact&theme=gruvbox&count_private=true)](https://github.com/igorfontenele/github-readme-stats)
 
 <!--
 **igorfontenele/igorfontenele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
