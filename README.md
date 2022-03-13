@@ -3,7 +3,9 @@
 Happy to see you here!
 
 This is my language's states:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfontenele&layout=compact)]
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfontenele)](https://github.com/igorfontenele/github-readme-stats)
 
 <!--
 **igorfontenele/igorfontenele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
