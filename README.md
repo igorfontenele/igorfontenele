@@ -2,9 +2,6 @@
 
 Happy to see you here!
 
-This is my Language's Stats:
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfontenele&layout=compact)](https://github.com/igorfontenele/github-readme-stats)
 
 <!--
